@@ -7,4 +7,4 @@ CS316 Programming Language project
 
 3. Semantic Analysis
 
-4. extend the virtual machine by incorporating instructions for array
+4. Extend the virtual machine by incorporating instructions for array
